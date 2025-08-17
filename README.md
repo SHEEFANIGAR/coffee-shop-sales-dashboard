@@ -1,4 +1,4 @@
-# Coffee Shop Sales Analysis Dashboard
+# ☕Coffee Shop Sales Analysis Dashboard
 
 This project analyzes coffee shop sales data using **Microsoft Excel**.  
 The dataset was provided by **Maven Analytics** (credits to them).  
